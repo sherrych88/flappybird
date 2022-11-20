@@ -13,6 +13,8 @@ git clone
 - Restart option after collision
 # How It's Made
 - Python, Pygame
+# Notes
+- This was one of my first experiences with game design and development. By creating this, I learned a lot more about Python using the Sprite class in Pygame.
 
 
 
