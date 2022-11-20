@@ -4,7 +4,7 @@ A "Flappy Bird" game made in Python.
 ![](https://github.com/sherrych88/flappybird/blob/main/gamescreenshot.png?raw=true)
 ![](https://github.com/sherrych88/flappybird/blob/main/lockerscreenshot.png?raw=true)
 # How To Run
-- git clone https://github.com/sherrych88/flappybird.git
+- git clone https://github.com/sherrych88/flappybird.git 
 - cd flappybird
 - python flappybird.py
 # Features
