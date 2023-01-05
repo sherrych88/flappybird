@@ -7,9 +7,9 @@ import os
 pygame.init()
 clock = pygame.time.Clock()
 channel = pygame.mixer.Channel(0)
-sprites_folder = "/Users/Test/Desktop/flappybird/assets/sprites"
-audio_folder = "/Users/Test/Desktop/flappybird/assets/soundeffects"
-font_folder ="/Users/Test/Desktop/flappybird/assets/font"
+sprites_folder = "assets/sprites"
+audio_folder = "assets/soundeffects"
+font_folder ="assets/font"
 
 # set up variables 
 #background
